@@ -438,11 +438,6 @@ class _TrackerPageState extends State<TrackerPage> {
                   letterSpacing: -1.3,
                 ),
               ),
-              const SizedBox(height: 8),
-              const Text(
-                'Find your focus. We’ll keep track of the time.',
-                style: TextStyle(color: muted, height: 1.5),
-              ),
               const SizedBox(height: 30),
               panel(
                 child: Column(

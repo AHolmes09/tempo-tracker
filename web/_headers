@@ -1,0 +1,8 @@
+/index.html
+  Cache-Control: no-cache
+/flutter_bootstrap.js
+  Cache-Control: no-cache
+/tempo-sw.js
+  Cache-Control: no-cache
+/storage.js
+  Cache-Control: no-cache
